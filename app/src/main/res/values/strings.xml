@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Imgur App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_upload_text">Upload Image</string>
+</resources>
